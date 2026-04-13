@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+.DS_Store
+
+# Ignore virtual environment
+venv/
+
+# Hugging Face cache
+.hf_cache/
+
+# Optional large data files
+Fake.csv
+True.csv
